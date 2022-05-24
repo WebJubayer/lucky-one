@@ -1,0 +1,33 @@
+.cart-style {
+    position: sticky ; 
+    top: 0 ; 
+    } 
+    .btn2 { 
+    width: 80% ; 
+    border: 2px solid blueviolet ;
+    padding: 10px ; 
+    font-size: medium ; 
+    font-weight: 700 ; 
+    background-color: silver ; 
+    margin: 10px ; 
+    }
+    .btn3{
+    width: 80% ; 
+    border: 2px solid rgb ( 196 , 3 , 35 ) ; 
+    padding: 10px ; 
+    font-size : medium ; 
+    font-weight : 700 ; 
+    background-color: silver ; 
+    margin: 10px ;
+     } 
+    
+    @media only screen and ( max-width: 600px ) { 
+    .btn2 {
+     font-weight : 400 ; 
+    padding: 5px ; 
+    } 
+    .btn3 { 
+    font-weight : 400 ; 
+    padding: 5px ; 
+    }
+    }
