@@ -2,11 +2,8 @@
 GadgetWala
 (Gadgets you need)
 ## Project live
-Please visit the link to get your desire product
+Please visit the link to get your desire product => 
 [link](https://eloquent-empanada-e78827.netlify.app/)
-
-
-
 
 # Getting Started with Create React App
 
